@@ -1,0 +1,93 @@
+{
+  "Components": {
+    "Sidebar": {
+      "dashboard": "Dashboard",
+      "professional": "Profissional",
+      "profession": "Tipo de Profissão"
+    },
+    "PointCard": {
+      "status": "Status",
+      "active": "ATIVO",
+      "inactive": "INATIVO",
+      "install": "Data da instalação",
+      "lastupdate": "Data da última atualização"
+    },
+    "ProfessionalCard": {
+      "status": "Status",
+      "profession": "Profissão",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "active": "ATIVO",
+      "inactive": "INATIVO",
+      "Modal": {
+        "deleteText": "Tem certeza que deseja excluir o profissional",
+        "delete": "Excluir",
+        "notDelete": "Não excluir",
+        "sucessText": "Profissional excluído com sucesso!",
+        "confirm": "OK"
+      }
+    }
+  },
+  "Pages": {
+    "Login": {
+      "welcome": "Seja bem vindo! Faça login com suas credenciais.",
+      "password": "Senha",
+      "button": "Entrar"
+    },
+    "CommonAuthComponent": {
+      "terms": "Termos de Uso & Política de Privacidade"
+    },
+    "Profession": {
+      "title": "Tipos de profissão cadastrados",
+      "Status": {
+        "title": "Status",
+        "active": "Ativo",
+        "inactive": "Inativo"
+      },
+      "newRegister": "Cadastrar novo"
+    },
+    "NewProfession": {
+      "title": "Tipos de profissão",
+      "instructions": "Preencha os campos a seguir:",
+      "name": "Nome da profissão",
+      "save": "Salvar",
+      "status": "Status",
+      "cancel": "Cancelar",
+      "Modal": {
+        "textnew": "Tipo de profissão cadastrado com com sucesso!",
+        "text": "Tipo de profissão alterado com sucesso!",
+        "confirm": "OK"
+      }
+    },
+    "Professional": {
+      "title": "Profissionais cadastradas",
+      "findUser": "Buscar profisional",
+      "Status": {
+        "title": "Status",
+        "active": "Ativo",
+        "inactive": "Inativo"
+      },
+      "filter": "Filtrar",
+      "newRegister": "Cadastrar novo"
+    },
+    "NewProfessional": {
+      "title": "Profissional",
+      "instructions": "Preencha os campos a seguir:",
+      "name": "Nome",
+      "phone": "Telefone",
+      "email": "E-mail",
+      "profession": "Profissão",
+      "save": "Salvar",
+      "cancel": "Cancelar",
+      "Status": {
+        "title": "Status",
+        "active": "Ativo",
+        "inactive": "Inativo"
+      },
+      "Modal": {
+        "text": "Profissional alterado com sucesso!",
+        "confirm": "OK"
+      }
+    }
+  }
+}
